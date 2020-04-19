@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  mouse = [ game ,that,four, one]
+  [ game ,that,four, one]
 end
 
 def add_element_to_end_of_array(array, element)
-  mouse.push(once)
+  array.push(once)
 end
 
 def add_element_to_start_of_array(array, element)
